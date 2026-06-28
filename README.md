@@ -2,4 +2,5 @@
 
 ## Screenshot
 
-![Homepage](images/screenshot01.png)
+![Portfolio Screenshot](screenshot01
+/homepage.png)
